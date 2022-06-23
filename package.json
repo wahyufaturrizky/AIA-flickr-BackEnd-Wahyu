@@ -1,0 +1,32 @@
+{
+  "name": "aia-flickr-backend-wahyu",
+  "version": "1.0.0",
+  "description": "Wahyu Fatur Rizki (https://github.com/wahyufaturrizky) Flickr Backend test from AIA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wahyufaturrizky/AIA-flickr-BackEnd-Wahyu"
+  },
+  "keywords": [
+    "flickr"
+  ],
+  "author": "Wahyu Fatur Rizki ( https://github.com/wahyufaturrizky )",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahyufaturrizky/AIA-flickr-BackEnd-Wahyu/issues"
+  },
+  "homepage": "https://github.com/wahyufaturrizky/AIA-flickr-BackEnd-Wahyu#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "serve-favicon": "^2.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
